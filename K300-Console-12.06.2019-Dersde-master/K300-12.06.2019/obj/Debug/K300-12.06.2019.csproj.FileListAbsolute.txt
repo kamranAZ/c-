@@ -1,0 +1,12 @@
+C:\Users\Elxan\source\repos\K300-12.06.2019\K300-12.06.2019\bin\Debug\K300-12.06.2019.exe.config
+C:\Users\Elxan\source\repos\K300-12.06.2019\K300-12.06.2019\bin\Debug\K300-12.06.2019.exe
+C:\Users\Elxan\source\repos\K300-12.06.2019\K300-12.06.2019\bin\Debug\K300-12.06.2019.pdb
+C:\Users\Elxan\source\repos\K300-12.06.2019\K300-12.06.2019\obj\Debug\K300-12.06.2019.csprojAssemblyReference.cache
+C:\Users\Elxan\source\repos\K300-12.06.2019\K300-12.06.2019\obj\Debug\K300-12.06.2019.exe
+C:\Users\Elxan\source\repos\K300-12.06.2019\K300-12.06.2019\obj\Debug\K300-12.06.2019.pdb
+C:\Users\User\Desktop\k-100--kamran\K300-Console-12.06.2019-Dersde-master\K300-12.06.2019\obj\Debug\K300-12.06.2019.csprojAssemblyReference.cache
+C:\Users\User\Desktop\k-100--kamran\K300-Console-12.06.2019-Dersde-master\K300-12.06.2019\obj\Debug\K300-12.06.2019.exe
+C:\Users\User\Desktop\k-100--kamran\K300-Console-12.06.2019-Dersde-master\K300-12.06.2019\obj\Debug\K300-12.06.2019.pdb
+C:\Users\User\Desktop\k-100--kamran\K300-Console-12.06.2019-Dersde-master\K300-12.06.2019\bin\Debug\K300-12.06.2019.exe.config
+C:\Users\User\Desktop\k-100--kamran\K300-Console-12.06.2019-Dersde-master\K300-12.06.2019\bin\Debug\K300-12.06.2019.exe
+C:\Users\User\Desktop\k-100--kamran\K300-Console-12.06.2019-Dersde-master\K300-12.06.2019\bin\Debug\K300-12.06.2019.pdb
